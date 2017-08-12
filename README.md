@@ -118,19 +118,5 @@ You can run the unit tests with:
 npm run test
 ```
 
-## Future Plans
-
-There are two big changes we plan to make to this repo:
-
-### 1. Add HTTP Requests
-
-Currently the bots are all client-side and there are no HTTP requests involved in the chats.
-
-We will move the chat bots to a server and integrate API requests into this project once the Angular 2 HTTP client development has settled down.
-
-### 2. `ON_PUSH` change detection
-
-Because we're using observables, we can improve the performance of these components by using `ON_PUSH` change detection. Again, once Angular 2 development stabilizes, we'll be making this change.
-
 ## License
  [MIT](/LICENSE.md)
