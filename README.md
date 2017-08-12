@@ -89,11 +89,11 @@ This app implements a few simple chat bots. For instance:
 
 **Step 1: Install Node.js from the [Node Website](http://nodejs.org/).**
 
-We recommend Node version 4.1 or above. You can check your node version by running this:
+We recommend Node version 7.9.0 or above. You can check your node version by running this:
 
 ```bash
 $ node -v
-vv4.1...
+vv7.9.0...
 ```
 
 **Step 2: Install Dependencies**
